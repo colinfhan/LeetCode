@@ -1,4 +1,4 @@
-##Greedy
+**Greedy**  
 First Attempt
 ```java
 class Solution {
