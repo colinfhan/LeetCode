@@ -1,2 +1,2 @@
-# LeetCode Practicing Journal
+# LeetCode Practicing Diaries
 
