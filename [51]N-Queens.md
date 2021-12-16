@@ -43,4 +43,4 @@ class Solution {
 ```
 **Appendix**
 ---
-In backtracking algorithms, permutation problems are generally solved by swapping positions, and combination problems are generally solved by moving numbers into/out of sets.
+None.
