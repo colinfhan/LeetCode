@@ -2,7 +2,7 @@
 ---
 **Basic idea**  
 Dynamic Programming Equation  
-dp[i][j]=Math.min(dp[i][j], dp[i±1][j±1] + 1) pr 0  
+dp[i][j]=Math.min(dp[i][j], dp[i±1][j±1] + 1) or 0  
 Implementation
 ---
 Dynamic Planning
