@@ -3,6 +3,7 @@
 **Basic idea**  
 Dynamic Programming Equation  
 dp[i] = dp[i] || dp[i-len]  
+
 Implementation
 ---
 Dynamic Planning

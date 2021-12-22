@@ -2,7 +2,8 @@
 ---
 **Basic idea**  
 Dynamic Programming Equation  
-dp[i][j] = min(dp[i-1][j], dp[i][j-1]) + dp[i][j]
+dp[i][j] = min(dp[i-1][j], dp[i][j-1]) + dp[i][j]  
+
 Implementation
 ---
 Dynamic Planning
