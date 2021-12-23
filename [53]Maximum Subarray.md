@@ -2,7 +2,8 @@
 ---
 **Basic idea**  
 DP 1 dim  
-dp[i] = max(dp[i-1]+nums[i], nums[i])
+dp[i] = max(dp[i-1]+nums[i], nums[i])  
+
 Implementation
 ---
 Dynamic Planning
