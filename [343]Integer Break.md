@@ -36,15 +36,11 @@ class Solution {
         }
         int count = n / 3;
         int left = n % 3;
-        switch (left) {
-            case 0:
-                return (int)Math.pow(3, count);
-            case 1:
-                return (int)Math.pow(3, count-1)*4;
-            case 2:
-                return (int)Math.pow(3, count)*2;
-        }
-        return 0;
+        return switch (left) {
+            case 0->(int)Math.pow(3, count);
+            case 1->(int)Math.pow(3, count-1)*4;
+            default->(int)Math.pow(3, count)*2;
+        };
     }
 }
 ```
