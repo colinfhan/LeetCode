@@ -1,4 +1,4 @@
-**Bitwise Operations**  
+**Bit Manipulation**  
 ---
 **Basic idea**  
 Application of Iso-or
